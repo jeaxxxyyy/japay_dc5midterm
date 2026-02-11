@@ -1,6 +1,6 @@
 <template>
     <img
-        src="/images/logo.png"
+        src="/download.jpeg"
         alt="Application Logo"
         class="h-9 w-auto"
     />
